@@ -19,20 +19,20 @@
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="navBar()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
     <a href="#" class="w3-bar-item w3-button w3-padding-large">Home</a>
     <a href="#thepodcast" class="w3-bar-item w3-button w3-padding-large w3-hide-small">The Podcast</a>
-    <a href="#theduo" class="w3-bar-item w3-button w3-padding-large w3-hide-small">The Duo</a>
+    <a href="#thehosts" class="w3-bar-item w3-button w3-padding-large w3-hide-small">The Hosts</a>
   </div>
 </div>
 
 <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
 <div id="navBar" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
   <a href="#thepodcast" class="w3-bar-item w3-button w3-padding-large" onclick="navBar()">The Podcast</a>
-  <a href="#theduo" class="w3-bar-item w3-button w3-padding-large" onclick="navBar()">The Duo</a>
+  <a href="#thehosts" class="w3-bar-item w3-button w3-padding-large" onclick="navBar()">The Hosts</a>
 </div>
 
 <!-- Page content -->
 <div class="w3-content" style="max-width:2000px;margin-top:46px">
   <!-- The Podcast -->
-  <div class="w3-light-grey" id="thepodcast">
+  <div class="w3-blue-grey" id="thepodcast">
     <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px">
       <h1 class="w3-wide">Burridge and Tom</h1>
       <h2 class="w3-wide">The Podcast</h2>
@@ -45,22 +45,22 @@
   </div>
   
   <!-- The Duo -->
-  <div class="w3-indigo" id="theduo">
+  <div class="w3-indigo" id="thehosts">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
       <div class="w3-row w3-padding-32">
-        <h2 class="w3-wide w3-center">The Duo</h2>
+        <h2 class="w3-wide w3-center">Meet your Hosts</h2>
         <p class="w3-justify"></p>
         <div class="w3-half">
-          <div class="w3-card-4 w3-light-grey" style="width:60%">
-            <img src="images/burridgedan.jpg" alt="burridgedan" style="width:100%">
+          <div class="w3-card-4 w3-light-grey" style="width:80%">
+            <img src="images/burridgedan.jpg" alt="burridgedan" style="width:100%" class="w3-hover-opacity">
             <div class="w3-container w3-center">
               <p>burridgedan</p>
             </div>
           </div>
         </div>
         <div class="w3-half">
-          <div class="w3-card-4 w3-light-grey" style="width:60%">
-            <img src="images/taspeed.jpg" alt="taspeed" style="width:100%">
+          <div class="w3-card-4 w3-light-grey" style="width:80%">
+            <img src="images/taspeed.jpg" alt="taspeed" style="width:100%" class="w3-hover-opacity">
             <div class="w3-container w3-center">
               <p>Taspeed</p>
             </div>
