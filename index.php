@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Burridge & Tom</title>
+<title>Burridge and Tom</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -31,10 +31,10 @@
 
 <!-- Page content -->
 <div class="w3-content" style="max-width:2000px;margin-top:46px">
-
   <!-- The Podcast -->
   <div class="w3-light-grey" id="thepodcast">
     <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px">
+      <h1 class="w3-wide">Burridge and Tom</h1>
       <h2 class="w3-wide">The Podcast</h2>
       <p class="w3-justify">The podcast that started it all: Burridge and Tom Rambling on, is the spiritual successor to our first foray into podcasting: Burridge and Tom Talk Tech. After a nearly two-year hiatus, we returned and continued getting as off-topic as ever, hence the new name!</p>
       <p class="w3-justify">While “Rambling On” focuses on technology and games, we often dive into other topics, ranging from the current political climate to deep space exploration. This podcast aims to highlight some of the things in new technology we are most excited about and cover areas of the industry that are less than perfect.</p>
@@ -49,13 +49,22 @@
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
       <div class="w3-row w3-padding-32">
         <h2 class="w3-wide w3-center">The Duo</h2>
+        <p class="w3-justify"></p>
         <div class="w3-half">
-          <p>burridgedan</p>
-          <img src="images/burridgedan.jpg" class="w3-round w3-margin-bottom" alt="burridgedan" style="width:60%">
+          <div class="w3-card-4 w3-light-grey" style="width:60%">
+            <img src="images/burridgedan.jpg" alt="burridgedan" style="width:100%">
+            <div class="w3-container w3-center">
+              <p>burridgedan</p>
+            </div>
+          </div>
         </div>
         <div class="w3-half">
-          <p>Taspeed</p>
-          <img src="images/taspeed.jpg" class="w3-round w3-margin-bottom" alt="taspeed" style="width:60%">
+          <div class="w3-card-4 w3-light-grey" style="width:60%">
+            <img src="images/taspeed.jpg" alt="taspeed" style="width:100%">
+            <div class="w3-container w3-center">
+              <p>Taspeed</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
