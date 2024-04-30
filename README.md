@@ -1,2 +1,2 @@
-# burridgeandtomsite
-Repo for the burridgeandtom.com site
+# Burridge and Tom Website
+It's real basic for now, although it's PHP in file format, for now it's basic HTML and a tiny bit of JS. I want to do some more advanced things eventually with PHP once the basic site layout and theme is done.
