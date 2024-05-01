@@ -18,24 +18,24 @@
   <div class="w3-bar w3-black w3-card">
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="navBar()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
     <a href="#" class="w3-bar-item w3-button w3-padding-large">Home</a>
-    <a href="#thepodcast" class="w3-bar-item w3-button w3-padding-large w3-hide-small">The Podcast</a>
+    <a href="#about" class="w3-bar-item w3-button w3-padding-large w3-hide-small">About</a>
     <a href="#thehosts" class="w3-bar-item w3-button w3-padding-large w3-hide-small">The Hosts</a>
   </div>
 </div>
 
 <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
 <div id="navBar" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
-  <a href="#thepodcast" class="w3-bar-item w3-button w3-padding-large" onclick="navBar()">The Podcast</a>
+  <a href="#about" class="w3-bar-item w3-button w3-padding-large" onclick="navBar()">About</a>
   <a href="#thehosts" class="w3-bar-item w3-button w3-padding-large" onclick="navBar()">The Hosts</a>
 </div>
 
 <!-- Page content -->
 <div class="w3-content" style="max-width:2000px;margin-top:46px">
   <!-- The Podcast -->
-  <div class="w3-blue-grey" id="thepodcast">
+  <div class="w3-blue-grey" id="about">
     <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px">
       <h1 class="w3-wide">Burridge and Tom</h1>
-      <h2 class="w3-wide">The Podcast</h2>
+      <h2 class="w3-wide">About: Rambling On</h2>
       <p class="w3-justify">The podcast that started it all: Burridge and Tom Rambling on, is the spiritual successor to our first foray into podcasting: Burridge and Tom Talk Tech. After a nearly two-year hiatus, we returned and continued getting as off-topic as ever, hence the new name!</p>
       <p class="w3-justify">While “Rambling On” focuses on technology and games, we often dive into other topics, ranging from the current political climate to deep space exploration. This podcast aims to highlight some of the things in new technology we are most excited about and cover areas of the industry that are less than perfect.</p>
       <p class="w3-justify">From time to time, we also host special events, either as bonus episodes or in the place of regular episodes, including an annual quiz and coverage of industry keynotes.</p>
