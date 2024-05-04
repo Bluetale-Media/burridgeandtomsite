@@ -76,6 +76,7 @@
 <!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-center w3-black w3-xlarge">
   <a href="https://open.spotify.com/show/58aXujSrSZ1FcOdpulI7Fe" target="_blank"><i class="fa-brands fa-spotify w3-hover-opacity"></i></a>
+  <a href="https://bsky.app/profile/burridgeandtom.com" target="_blank"><i class="fa-brands fa-bluesky w3-hover-opacity"></i></a>
   <a href="https://twitter.com/burridgeandtom" target="_blank"><i class="fa-brands fa-x-twitter w3-hover-opacity"></i></a>
   <a href="https://youtube.com/@burridgeandtom" target="_blank"><i class="fa-brands fa-youtube w3-hover-opacity"></i></a>
   <a href="https://www.tiktok.com/@burridgeandtom" target="_blank"><i class="fa-brands fa-tiktok w3-hover-opacity"></i></a>
