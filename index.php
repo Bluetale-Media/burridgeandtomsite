@@ -1,15 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Burridge and Tom</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-<style>
-  body {font-family: "Lato", sans-serif}
-</style>
+  <title>Burridge and Tom by Bluetale Media</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="Burridge and Tom is the flagship podcast brought to you by Bluetale Media.">
+  <meta name="keywords" content="Burridge, Tom, Podcast, Bluetale">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+  <style>
+    body {font-family: "Lato", sans-serif}
+  </style>
 </head>
 <body>
 
@@ -34,7 +39,7 @@
   <!-- The Podcast -->
   <div class="w3-blue-grey" id="about">
     <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px">
-      <h1 class="w3-wide">Burridge and Tom</h1>
+      <h1 class="w3-wide">Burridge and Tom by <a href="https://bluetale.media" target="_blank">Bluetale Media</a></h1>
       <h2 class="w3-wide">About: Rambling On</h2>
       <p class="w3-justify">The podcast that started it all: Burridge and Tom Rambling on, is the spiritual successor to our first foray into podcasting: Burridge and Tom Talk Tech. After a nearly two-year hiatus, we returned and continued getting as off-topic as ever, hence the new name!</p>
       <p class="w3-justify">While “Rambling On” focuses on technology and games, we often dive into other topics, ranging from the current political climate to deep space exploration. This podcast aims to highlight some of the things in new technology we are most excited about and cover areas of the industry that are less than perfect.</p>
